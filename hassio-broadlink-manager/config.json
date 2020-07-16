@@ -5,7 +5,7 @@
   "slug": "hassio_broadlinkmanager_addon",
   "description": "Broadlink Manager add-on!",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
-  "url": "https://github.com/t0mer/broadlinkmanager-addon",
+  "url": "https://github.com/spiddyspid/hassio-broadlink-manager",
   "panel_title": "Broadlink Manager",
   "startup": "application",
   "boot": "auto",
